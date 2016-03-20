@@ -6,8 +6,9 @@ This package consists of link prediction codes in which run on MAC/UBUNTU platfo
 The structure of this package is as follows:
 
 lp  
+|--- execute.py : run this for executing the package</li>
+
 <ul>
-<li>execute.py : run this for executing the package</li>
 <li>results.py : converting results stored in .txt files (in this folder) and storing it in results folder as .txt file </li>
 <li>datasets : the datasets reside in this folder. The format of the graph file is "node1 node2" (Handles any number of spaces) </li>
 <li>results : contains the results as .txt files </li>
