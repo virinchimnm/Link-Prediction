@@ -19,10 +19,10 @@ lp
 |--- makefile : make file which is handled in execute.py <br />
 | <br />
 |--- src <br />
+* |--- plot.R : handles plotting graphs using the files residing in results folder <br />
 
 
 <ul>
-<li>plot.R : handles plotting graphs using the files residing in results folder</li>
 <li>lp.cpp : main function of the link prediction cpp file</li>
 <li>graph.h : cpp  file handling basic graph operations</li>
 <li>result.h : cpp file handling computing the results and storing them as .txt files in lp folder</li>
