@@ -1,6 +1,6 @@
 # Link-Prediction
 
-This package consists of link prediction codes in which run on MAC/UBUNTU platform. One can make necessary modifications for running the codes on Windows platform. You can download the lp folder to any location in your system. Please download Boost C++ library and unzip it in the same folder where lp folder is residing on your system. You need to have R, Python and C++ installed on your machine to be able to use this package.
+This package consists of link prediction codes which run on MAC/UBUNTU platform. You can make necessary modifications for running the codes on Windows platform. You can download the lp folder to any location in your system. Please download Boost C++ library and unzip it in the same folder where lp folder is residing on your system. You need to have R, Python and C++ installed on your machine to be able to use this package.
 
 
 The structure of this package is as follows:
