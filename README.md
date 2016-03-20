@@ -19,7 +19,7 @@ lp
 |--- makefile : make file which is handled in execute.py <br />
 | <br />
 |--- src <br />
-> > |--- plot.R : handles plotting graphs using the files residing in results folder <br />
+> |--- plot.R : handles plotting graphs using the files residing in results folder <br />
 
 
 <ul>
