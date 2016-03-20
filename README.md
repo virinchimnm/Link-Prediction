@@ -1,9 +1,9 @@
 # Link-Prediction
 
-This package consists of link prediction codes in C++ which run on MAC/UBUNTU. One can make modifications for being able to run it on Windows. You can download the lp folder on to any location on your system. Please download Boost C++ library and unzip it into the same folder where lp folder is residing. 
+This package consists of link prediction codes in which run on MAC/UBUNTU platform. One can make necessary modifications for running the codes on Windows platform. You can download the lp folder to any location in your system. Please download Boost C++ library and unzip it in the same folder where lp folder is residing on your system. 
 
 
-The structure of the lp folder is as follows:
+The structure of this package is as follows:
 
 lp  
 <ul>
