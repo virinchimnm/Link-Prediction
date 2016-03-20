@@ -12,12 +12,12 @@ lp
 |--- results : contains the results as .txt files <br />
 |--- plots : contains the result plots as .png files <br />
 |--- makefile : make file which is handled in execute.py <br />
-|--- src
-> |--- plot.R : handles plotting graphs using the files residing in results folder <br />
-> |--- lp.cpp : main function of the link prediction cpp file <br />
-> |--- graph.h : cpp  file handling basic graph operations <br />
-> |--- result.h : cpp file handling computing the results and storing them as .txt files in lp folder <br />
-> |---- cn.h, aa.h, ra.h, etc : basic link prediction algorihms. You can add your link prediction algortihms in this folder <br />
+|--- src <br />
+ |--- plot.R : handles plotting graphs using the files residing in results folder <br />
+ |--- lp.cpp : main function of the link prediction cpp file <br />
+ |--- graph.h : cpp  file handling basic graph operations <br />
+ |--- result.h : cpp file handling computing the results and storing them as .txt files in lp folder <br />
+ |---- cn.h, aa.h, ra.h, etc : basic link prediction algorihms. You can add your link prediction algortihms in this folder <br />
 
 
 
