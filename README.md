@@ -20,14 +20,10 @@ lp
 | <br />
 |--- src <br />
 > |--- plot.R : handles plotting graphs using the files residing in results folder <br />
-
-
-<ul>
-<li>lp.cpp : main function of the link prediction cpp file</li>
-<li>graph.h : cpp  file handling basic graph operations</li>
-<li>result.h : cpp file handling computing the results and storing them as .txt files in lp folder</li>
-<li>cn.h, aa.h, ra.h, etc : basic link prediction algorihms. You can add your link prediction algortihms in this folder</li>
-</ul>
+> |--- lp.cpp : main function of the link prediction cpp file <br />
+> |--- graph.h : cpp  file handling basic graph operations <br />
+> |--- result.h : cpp file handling computing the results and storing them as .txt files in lp folder <br />
+> |---- cn.h, aa.h, ra.h, etc : basic link prediction algorihms. You can add your link prediction algortihms in this folder <br />
 
 
 
