@@ -7,17 +7,11 @@ This package consists of link prediction codes in which run on MAC/UBUNTU platfo
 
 lp  
 |--- execute.py : run this for executing the package <br />
-| <br />
 |--- calc_results.py : converting results stored in .txt files (in this folder) and storing it in results folder as .txt file <br />
-| <br />
 |--- datasets : the datasets reside in this folder. The format of the graph file is "node1 node2" (Handles any number of spaces) <br />
-| <br />
 |--- results : contains the results as .txt files <br />
-| <br />
 |--- plots : contains the result plots as .png files <br />
-| <br />
 |--- makefile : make file which is handled in execute.py <br />
-| <br />
 |--- src <br />
 > |--- plot.R : handles plotting graphs using the files residing in results folder <br />
 > |--- lp.cpp : main function of the link prediction cpp file <br />
